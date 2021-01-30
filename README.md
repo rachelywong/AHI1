@@ -5,21 +5,24 @@ Protein modelling of disease protein coding gene AHI1 using homology modelling f
 
 The final AHI1 protein modelling file can be found in AHI1_WD40domain.pse
 
-# Screenshots of the 3D Model
+<img src="https://github.com/rachelywong/AHI1/blob/master/img/AHI1-WD40-Variants.gif">
+
+# Screenshots of the 3D Model in Different Views
 
 ### Stick Model
 Captures highlighted mutations in amino acid structure.
 
-<img src="https://github.com/rachelywong/AHI1/blob/master/img/aa.png" width="500" height="500">
+<img src="https://github.com/rachelywong/AHI1/blob/master/img/aa.png" width="800" height="500">
 
 ### Highlighted Barrels
 
 Two different angles capturing highlighted mutations in secondary protein structure, with mutations showing amino acid structure.
 
-![Cartoon Model](https://github.com/rachelywong/AHI1/blob/master/img/sec_struc_1.png)
-![Cartoon Model](https://github.com/rachelywong/AHI1/blob/master/img/sec_struc_2.png)
+<img src="https://github.com/rachelywong/AHI1/blob/master/img/sec_struc_1.png" width="800" height="500">
+<img src="https://github.com/rachelywong/AHI1/blob/master/img/sec_struc_2.png" width="800" height="500">
+
 
 ### Cartoon Model
 Captures highlighted mutations on the surface of the protein. 
 
-![Cartoon Model](https://github.com/rachelywong/AHI1/blob/master/img/blob.png)
+<img src="https://github.com/rachelywong/AHI1/blob/master/img/blob.png" width="800" height="500">
