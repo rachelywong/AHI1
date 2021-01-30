@@ -10,7 +10,7 @@ The final AHI1 protein modelling file can be found in AHI1_WD40domain.pse
 ### Stick Model
 Captures highlighted mutations in amino acid structure.
 
-<img src="https://github.com/rachelywong/AHI1/blob/master/img/aa.png" width="100" height="100">
+<img src="https://github.com/rachelywong/AHI1/blob/master/img/aa.png" width="500" height="500">
 
 ### Highlighted Barrels
 
